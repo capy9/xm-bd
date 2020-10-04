@@ -1,0 +1,6 @@
+Host github.com
+User yangjf210361@163.com
+Hostname ssh.github.com
+PreferredAuthentications publickey
+IdentityFile id_rsa
+Port 443
